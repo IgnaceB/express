@@ -1,0 +1,10 @@
+{"dish" :[
+	{"name":"testName",
+		"timeToPrepare":"testTime",
+		"ingredients":"testIngredient",
+	"listOfSteps":"testSteps"},
+	{"name":"test2Name",
+		"timeToPrepare":"test2Time",
+		"ingredients":"test2Ingredient",
+	"listOfSteps":"test2Steps"}
+]}
